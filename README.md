@@ -8,9 +8,8 @@ lib-crud-api library create-read-update-delete action with schema from core syst
 4.Delete
 
 core interpreter acction between user and server processing
-
-
-Command 'goenv' not found, did you mean:
+<prev>
+  Command 'goenv' not found, did you mean:
 
   command 'gbenv' from deb gbutils (5.7.1-1)
 
@@ -1426,3 +1425,5 @@ remote: Please see https://docs.github.com/en/get-started/getting-started-with-g
 fatal: Authentication failed for 'https://github.com/pannavicb/lib-crud-api.git/'
 sa@DESKTOP-SQLE148:~/myapp4$ git push -u origin master
 Username for 'https://github.com':
+
+ </prev>
